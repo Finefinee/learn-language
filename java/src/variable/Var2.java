@@ -1,0 +1,9 @@
+package amiddle.variable;
+
+public class Var2 {
+
+    public static void main(String[] args) {
+        int a;
+//        System.out.println(a);
+    }
+}
